@@ -1,6 +1,4 @@
-# Restaurant Management System
 
-Live Code : https://codx-restaurant.netlify.app/
 
 
 
