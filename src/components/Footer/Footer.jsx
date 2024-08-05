@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <Box className='footer'>
         <Typography component='p'>
-            Copyright ©2023 All rights reserved | Developed by <Link to="https://github.com/codx-paradise">Ak Moorthi</Link></Typography>
+            Copyright ©2023 All rights reserved | </Typography>
     </Box>
   )
 }
